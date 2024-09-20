@@ -25,5 +25,14 @@ This is my first local change to the repo!
 
 [Link Text ](https://canvas.sydney.edu.au/courses/60108/groups)
 
-![An image of a cat](http://placekitten.com/200/300
-Links to an external site.)
+![An image of a cat](http://placekitten.com/200/300)
+
+![An image of Mona Lisa](readme.image\Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
+```
+function helleworld(){
+    console.log("Hello World");
+}
+```
+
+> This is a blackquote
